@@ -1,5 +1,4 @@
 #include <Servo.h>
-
 Servo clothServo;
 
 int rainSensorPin = 2;  
